@@ -55,3 +55,7 @@ Ensure you have the following installed on your machine:
 
 ## 📂 Project Structure
 
+## 📞 Contact
+ **Email:** thirudilak131@gmail.com
+ **LinkedIn:** https://www.linkedin.com/in/dilaksan-thirugnanaselvam-65641b262/
+
