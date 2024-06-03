@@ -1,4 +1,4 @@
-# 🚀 Dbot
+# 🚀 Dbot 🤖
 
 Dbot.it is a sophisticated chatbot application powered by the 🔥 **LLava-2** model, built using 💻 **Streamlit** for a sleek and user-friendly interface, and developed in 🐍 **Python**. This project combines cutting-edge AI technology with an intuitive interface to create a seamless user experience.
 
