@@ -2,6 +2,8 @@
 
 Dbot.it is a sophisticated chatbot application powered by the 🔥 **LLava-2** model, built using 💻 **Streamlit** for a sleek and user-friendly interface, and developed in 🐍 **Python**. This project combines cutting-edge AI technology with an intuitive interface to create a seamless user experience.
 
+https://github.com/DilaksanThirugnanaselvam/Dbot-chatBot-/assets/130204021/817b33f3-5638-4ae5-8b32-ddba23566964
+
 ## 🌟 Key Features
 
 - 🤖 **Advanced AI:** Utilizes the powerful LLava-2 model for intelligent and responsive interactions.
